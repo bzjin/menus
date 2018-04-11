@@ -1,0 +1,427 @@
+cuisine1,cuisine2,count
+asian fusion,asian fusion,1
+asian fusion,bars,3
+asian fusion,chinese,9
+asian fusion,japanese,8
+asian fusion,karaoke,6
+asian fusion,lounges,3
+asian fusion,noodles,3
+asian fusion,seafood,3
+asian fusion,sushi,3
+bagels,new american,2
+bakeries,cantonese,3
+bakeries,chinese,2
+bakeries,delis,2
+bakeries,dimsum,2
+bakeries,hkcafe,3
+bars,asian fusion,3
+bars,breakfast brunch,3
+bars,caribbean,2
+bars,italian,6
+bars,karaoke,3
+bars,korean,3
+bars,mexican,4
+bars,new american,7
+bars,pizza,6
+bars,polish,3
+bars,tacos,2
+bars,traditional american,2
+bbq,bbq,1
+bbq,chinese,9
+bbq,hotpot,3
+bbq,juicebars,3
+bbq,korean,4
+bbq,mongolian,3
+bbq,traditional american,3
+bbq,whiskey bars,3
+beergardens,coffee,3
+beergardens,new american,3
+breakfast brunch,bars,3
+breakfast brunch,british,3
+breakfast brunch,burgers,3
+breakfast brunch,cafes,3
+breakfast brunch,coffee,3
+breakfast brunch,convenience,3
+breakfast brunch,diners,3
+breakfast brunch,hotdog,6
+breakfast brunch,mediterranean,3
+breakfast brunch,mideastern,3
+breakfast brunch,new american,7
+breakfast brunch,pizza,3
+breakfast brunch,pubs,6
+breakfast brunch,salad,3
+breakfast brunch,sandwiches,3
+breakfast brunch,seafood,3
+breakfast brunch,traditional american,12
+british,breakfast brunch,3
+british,pubs,3
+bubble tea,cantonese,3
+bubble tea,hotpot,3
+bubble tea,noodles,3
+bubble tea,seafood,3
+bubble tea,shavedice,3
+bubble tea,taiwanese,5
+buffets,buffets,2
+buffets,chinese,2
+burgers,breakfast brunch,3
+burgers,burgers,1
+burgers,coffee,12
+burgers,delis,3
+burgers,desserts,3
+burgers,diners,6
+burgers,hotdog,3
+burgers,hotdogs,24
+burgers,ice cream,3
+burgers,mexican,3
+burgers,new american,3
+burgers,pizza,3
+burgers,salad,6
+burgers,sandwiches,6
+burgers,street vendors,3
+burgers,traditional american,2
+cafes,breakfast brunch,3
+cafes,cafes,2
+cafes,dimsum,2
+cafes,gelato,3
+cafes,ice cream,3
+cafes,pizza,3
+cafes,vegetarian,2
+cajun,indian pakistan,3
+cajun,italian,3
+cajun,seafood,2
+cantonese,bakeries,3
+cantonese,bubble tea,3
+cantonese,dimsum,13
+cantonese,hkcafe,3
+cantonese,seafood,14
+cantonese,shanghainese,2
+cantonese,szechuan,2
+caribbean,bars,2
+caribbean,caribbean,2
+caribbean,seafood,3
+caribbean,vegetarian,3
+chicken wings,chicken wings,1
+chicken wings,hotdogs,7
+chicken wings,korean,3
+chicken wings,new american,3
+chicken wings,pizza,3
+chicken wings,salad,3
+chicken wings,sandwiches,6
+chicken wings,seafood,9
+chicken wings,traditional american,6
+chinese,asian fusion,9
+chinese,bakeries,2
+chinese,bbq,9
+chinese,buffets,2
+chinese,chinese,40
+chinese,coffee,3
+chinese,desserts,2
+chinese,hotpot,8
+chinese,juicebars,5
+chinese,mongolian,3
+chinese,noodles,5
+chinese,seafood,7
+chinese,sushi,5
+chinese,taiwanese,3
+chinese,tapas small plates,2
+chinese,thai,3
+coffee,beergardens,3
+coffee,breakfast brunch,3
+coffee,burgers,12
+coffee,chinese,3
+coffee,convenience,3
+coffee,hotdogs,12
+coffee,new american,3
+coffee,sandwiches,4
+coffee,taiwanese,3
+coffee,vietnamese,2
+comfort food,noodles,3
+comfort food,szechuan,3
+convenience,breakfast brunch,3
+convenience,coffee,3
+convenience,delis,3
+convenience,grocery,3
+creperies,desserts,3
+creperies,ice cream,3
+cuban,latin,3
+cuban,new american,3
+delis,bakeries,2
+delis,burgers,3
+delis,convenience,3
+delis,delis,1
+delis,grocery,6
+delis,italian,4
+delis,sandwiches,6
+desserts,burgers,3
+desserts,chinese,2
+desserts,creperies,3
+desserts,ice cream,3
+desserts,salad,6
+desserts,steak,3
+dimsum,bakeries,2
+dimsum,cafes,2
+dimsum,cantonese,13
+dimsum,dimsum,3
+dimsum,juicebars,3
+dimsum,seafood,14
+diners,breakfast brunch,3
+diners,burgers,6
+diners,hotdog,3
+diners,mexican,3
+diners,new american,3
+diners,sandwiches,3
+diners,traditional american,3
+foodstands,hotdog,2
+foodstands,thai,2
+foodtrucks,mexican,2
+foodtrucks,new american,2
+foodtrucks,sandwiches,3
+foodtrucks,steak,3
+gelato,cafes,3
+gelato,ice cream,3
+grocery,convenience,3
+grocery,delis,6
+grocery,mexican,2
+grocery,sandwiches,3
+hkcafe,bakeries,3
+hkcafe,cantonese,3
+hotdogs,breakfast brunch,6
+hotdogs,burgers,27
+hotdogs,diners,3
+hotdogs,foodstands,2
+hotdogs,hotdog,5
+hotdogs,mexican,3
+hotdogs,seafood,6
+hotdogs,street vendors,6
+hotdogs,traditional american,3
+hotdogs,chicken wings,7
+hotdogs,coffee,12
+hotdogs,ice cream,3
+hotdogs,sandwiches,8
+hotpot,bbq,3
+hotpot,bubble tea,3
+hotpot,chinese,8
+hotpot,mongolian,6
+hotpot,noodles,6
+ice cream,burgers,3
+ice cream,cafes,3
+ice cream,creperies,3
+ice cream,desserts,3
+ice cream,gelato,3
+ice cream,hotdogs,3
+indian pakistan,cajun,3
+indian pakistan,indian pakistan,2
+indian pakistan,international grocery,3
+indian pakistan,italian,3
+indian pakistan,vegan,3
+international grocery,indian pakistan,3
+international grocery,vegan,3
+italian,bars,6
+italian,cajun,3
+italian,delis,4
+italian,indian pakistan,3
+italian,italian,1
+italian,pizza,26
+italian,salad,3
+italian,sandwiches,3
+italian,seafood,2
+italian,traditional american,3
+japanese,asian fusion,8
+japanese,japanese,1
+japanese,karaoke,3
+japanese,lounges,3
+japanese,noodles,3
+japanese,sushi,5
+juicebars,bbq,3
+juicebars,chinese,5
+juicebars,dimsum,3
+juicebars,sandwiches,2
+juicebars,seafood,3
+karaoke,asian fusion,6
+karaoke,bars,3
+karaoke,japanese,3
+karaoke,lounges,6
+korean,bars,3
+korean,bbq,4
+korean,chicken wings,3
+korean,korean,1
+korean,polish,3
+korean,salad,3
+latin,cuban,3
+latin,lounges,2
+latin,new american,3
+lounges,asian fusion,3
+lounges,japanese,3
+lounges,karaoke,6
+lounges,latin,2
+lounges,traditional american,2
+meats,mexican,3
+meats,vegan,3
+mediterranean,breakfast brunch,3
+mediterranean,mediterranean,1
+mediterranean,mideastern,3
+mediterranean,turkish,2
+mexican,bars,4
+mexican,burgers,3
+mexican,diners,3
+mexican,foodtrucks,2
+mexican,grocery,2
+mexican,hotdog,3
+mexican,meats,3
+mexican,mexican,12
+mexican,new american,3
+mexican,street vendors,3
+mexican,vegan,3
+mideastern,breakfast brunch,3
+mideastern,mediterranean,3
+mongolian,bbq,3
+mongolian,chinese,3
+mongolian,hotpot,6
+new american,bagels,2
+new american,bars,7
+new american,beergardens,3
+new american,breakfast brunch,7
+new american,burgers,3
+new american,chicken wings,3
+new american,coffee,3
+new american,cuban,3
+new american,diners,3
+new american,foodtrucks,2
+new american,latin,3
+new american,mexican,3
+new american,new american,10
+new american,pizza,3
+new american,sandwiches,3
+noodles,asian fusion,3
+noodles,bubble tea,3
+noodles,chinese,5
+noodles,comfort food,3
+noodles,hotpot,6
+noodles,japanese,3
+noodles,panasian,2
+noodles,szechuan,3
+noodles,vietnamese,2
+panasian,noodles,2
+pizza,bars,6
+pizza,breakfast brunch,3
+pizza,burgers,3
+pizza,cafes,3
+pizza,chicken wings,3
+pizza,italian,26
+pizza,new american,3
+pizza,pizza,9
+pizza,salad,3
+pizza,sandwiches,6
+polish,bars,3
+polish,korean,3
+pubs,breakfast brunch,6
+pubs,british,3
+pubs,traditional american,3
+raw food,vegan,2
+salad,breakfast brunch,3
+salad,burgers,6
+salad,chicken wings,3
+salad,desserts,6
+salad,italian,3
+salad,korean,3
+salad,pizza,3
+salad,steak,3
+sandwiches,breakfast brunch,3
+sandwiches,burgers,6
+sandwiches,chicken wings,6
+sandwiches,coffee,4
+sandwiches,delis,6
+sandwiches,diners,3
+sandwiches,foodtrucks,3
+sandwiches,grocery,3
+sandwiches,hotdogs,8
+sandwiches,italian,3
+sandwiches,juicebars,2
+sandwiches,new american,3
+sandwiches,pizza,6
+sandwiches,sandwiches,4
+sandwiches,steak,3
+sandwiches,traditional american,5
+sandwiches,vietnamese,2
+seafood,asian fusion,3
+seafood,breakfast brunch,3
+seafood,bubble tea,3
+seafood,cajun,2
+seafood,cantonese,14
+seafood,caribbean,3
+seafood,chicken wings,9
+seafood,chinese,7
+seafood,dimsum,14
+seafood,hotdog,3
+seafood,hotdogs,3
+seafood,italian,2
+seafood,juicebars,3
+seafood,seafood,2
+seafood,senegalese,2
+seafood,sushi,2
+seafood,traditional american,6
+seafood,vegetarian,3
+senegalese,seafood,2
+shanghainese,cantonese,2
+shavedice,bubble tea,3
+shavedice,taiwanese,3
+spanish,tapas small plates,3
+steak,desserts,3
+steak,foodtrucks,3
+steak,salad,3
+steak,sandwiches,3
+street vendors,burgers,3
+street vendors,hotdog,3
+street vendors,hotdogs,3
+street vendors,mexican,3
+sushi,asian fusion,3
+sushi,chinese,5
+sushi,japanese,5
+sushi,seafood,2
+sushi,thai,3
+szechuan,cantonese,2
+szechuan,comfort food,3
+szechuan,noodles,3
+szechuan,szechuan,6
+tacos,bars,2
+taiwanese,bubble tea,5
+taiwanese,chinese,3
+taiwanese,coffee,3
+taiwanese,shavedice,3
+tapas small plates,chinese,2
+tapas small plates,spanish,3
+thai,chinese,3
+thai,foodstands,2
+thai,sushi,3
+thai,thai,2
+traditional american,bars,2
+traditional american,bbq,3
+traditional american,breakfast brunch,12
+traditional american,burgers,2
+traditional american,chicken wings,6
+traditional american,comedyclubs,3
+traditional american,diners,3
+traditional american,hotdog,3
+traditional american,italian,3
+traditional american,lounges,2
+traditional american,pubs,3
+traditional american,sandwiches,5
+traditional american,seafood,6
+traditional american,theater,3
+traditional american,traditional american,3
+traditional american,whiskey bars,3
+turkish,mediterranean,2
+vegan,indian pakistan,3
+vegan,international grocery,3
+vegan,meats,3
+vegan,mexican,3
+vegan,raw food,2
+vegetarian,cafes,2
+vegetarian,caribbean,3
+vegetarian,seafood,3
+vietnamese,coffee,2
+vietnamese,noodles,2
+vietnamese,sandwiches,2
+vietnamese,vietnamese,1
+whiskey bars,bbq,3
+whiskey bars,traditional american,3

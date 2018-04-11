@@ -1,0 +1,1084 @@
+{
+    "businesses": [
+        {
+            "id": "papa-johns-pizza-chicago-17",
+            "name": "Papa John's Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4DQKok3fjH0wv67balPAqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/papa-johns-pizza-chicago-17?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 75,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.8530839042697,
+                "longitude": -87.6241416769684
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "80 E Cermak Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "80 E Cermak Rd",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122251200",
+            "display_phone": "(312) 225-1200",
+            "distance": 1031.4271771167178
+        },
+        {
+            "id": "herban-gourmet-chicago",
+            "name": "Herban Gourmet",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/herban-gourmet-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 41.8547307771611,
+                "longitude": -87.6509857177734
+            },
+            "transactions": [],
+            "location": {
+                "address1": "900 N Michigan Ave",
+                "address2": "Ste Ll3",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60611",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "900 N Michigan Ave",
+                    "Ste Ll3",
+                    "Chicago, IL 60611"
+                ]
+            },
+            "phone": "+13122749961",
+            "display_phone": "(312) 274-9961",
+            "distance": 1897.6721886086739
+        },
+        {
+            "id": "subway-chicago-314",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pNW--1zszV5EP1KQMpYo-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-chicago-314?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.8563513,
+                "longitude": -87.6272949
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1916 S State St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1916 S State St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128081914",
+            "display_phone": "(312) 808-1914",
+            "distance": 1188.241671465728
+        },
+        {
+            "id": "mcdonalds-chicago-198",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AwiomLCCGbYblj_VBObAtw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-chicago-198?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 41.852015,
+                "longitude": -87.616047
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2301 S Lake Shore Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2301 S Lake Shore Dr",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123280682",
+            "display_phone": "(312) 328-0682",
+            "distance": 1469.039087265986
+        },
+        {
+            "id": "mcdonalds-chicago-197",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/y7cwwDl6v1RIm2MgOriFrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-chicago-197?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.8388994,
+                "longitude": -87.6468008
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3020 S Halsted St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3020 S Halsted St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13129499774",
+            "display_phone": "(312) 949-9774",
+            "distance": 1466.77499549462
+        },
+        {
+            "id": "jimmy-johns-chicago-22",
+            "name": "Jimmy John's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5sFcn-qj-T4wggTbOjYeoA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jimmy-johns-chicago-22?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8298873901367,
+                "longitude": -87.6505508422852
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "974 W 35th Pl",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60609",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "974 W 35th Pl",
+                    "Chicago, IL 60609"
+                ]
+            },
+            "phone": "+17735234711",
+            "display_phone": "(773) 523-4711",
+            "distance": 2356.319581696046
+        },
+        {
+            "id": "connies-pizza-chicago-6",
+            "name": "Connie's Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/evrQHf7mXE2ErHEOrxo4hw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/connies-pizza-chicago-6?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.85194,
+                "longitude": -87.61152
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2301 S Lake Shore Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2301 S Lake Shore Dr",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128083085",
+            "display_phone": "(312) 808-3085",
+            "distance": 1801.4083877175979
+        },
+        {
+            "id": "mcdonalds-chicago-10",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HiIT4fQn-tjAP4wbKcHnIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-chicago-10?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 34,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 41.830834411206,
+                "longitude": -87.621166179897
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "207 E 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60653",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "207 E 35th St",
+                    "Chicago, IL 60653"
+                ]
+            },
+            "phone": "+13128423986",
+            "display_phone": "(312) 842-3986",
+            "distance": 1859.867933425784
+        },
+        {
+            "id": "kfc-chicago-13",
+            "name": "KFC",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/22bMZFp1NKr4jlyWwsCuHQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-chicago-13?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.8312,
+                "longitude": -87.6193
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "300 East 35th Street",
+                "address2": null,
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "300 East 35th Street",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123743997",
+            "display_phone": "(312) 374-3997",
+            "distance": 1902.020665522174
+        },
+        {
+            "id": "dominos-pizza-chicago-30",
+            "name": "Domino's Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kp9nCBoppFllwOzt14SFHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dominos-pizza-chicago-30?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 41.830882,
+                "longitude": -87.618219
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "321 E 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "321 E 35th St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13129293325",
+            "display_phone": "(312) 929-3325",
+            "distance": 1980.6337235449137
+        },
+        {
+            "id": "sakura-house-ii-chicago",
+            "name": "Sakura House II",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sakura-house-ii-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 41.8817901611328,
+                "longitude": -87.6312789916992
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "105 W Madison St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60686",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "105 W Madison St",
+                    "Chicago, IL 60686"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1599.9831948859758
+        },
+        {
+            "id": "armands-pizzeria-chicago-13",
+            "name": "Armand's Pizzeria",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/armands-pizzeria-chicago-13?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 41.863502,
+                "longitude": -87.624542
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1416 South Michigan Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60605",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1416 South Michigan Ave",
+                    "Chicago, IL 60605"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2069.3523445085957
+        },
+        {
+            "id": "cermak-grill-chicago",
+            "name": "Cermak Grill",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cermak-grill-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.8526919186115,
+                "longitude": -87.6466653496027
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "800 W Cermak Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "800 W Cermak Rd",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13126667727",
+            "display_phone": "(312) 666-7727",
+            "distance": 1461.618434044442
+        },
+        {
+            "id": "j-and-rs-caribbean-chicago",
+            "name": "J & R's Caribbean",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OOZ0SR6XGuiCoK7yD76XqA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/j-and-rs-caribbean-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.82782,
+                "longitude": -87.62208
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3660 S Indiana Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60689",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3660 S Indiana Ave",
+                    "Chicago, IL 60689"
+                ]
+            },
+            "phone": "+17739241900",
+            "display_phone": "(773) 924-1900",
+            "distance": 2132.492358683552
+        },
+        {
+            "id": "benedicts-chicago",
+            "name": "Benedict's",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/benedicts-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8471075594425,
+                "longitude": -87.6466009765863
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2501 S Archer Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2501 S Archer Ave",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1243.846741276624
+        },
+        {
+            "id": "subway-chicago-136",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NlMJJwsXccVNTfO7ek__6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-chicago-136?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8311921319211,
+                "longitude": -87.6220422134054
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "124 E 35th St",
+                "address2": null,
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "124 E 35th St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128424050",
+            "display_phone": "(312) 842-4050",
+            "distance": 1791.5319283269139
+        },
+        {
+            "id": "china-chef-chicago-5",
+            "name": "China Chef",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ogG8OLF7Kl_6zRdEHdYbRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-chef-chicago-5?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.8311989,
+                "longitude": -87.6200013
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "258 E 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "258 E 35th St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13125280227",
+            "display_phone": "(312) 528-0227",
+            "distance": 1890.7828834500979
+        },
+        {
+            "id": "subway-chicago-229",
+            "name": "Subway",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aQocg-7j9ka4lalY-Kvj-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-chicago-229?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 41.8313149,
+                "longitude": -87.6154299
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "454 E 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "454 E 35th St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123260530",
+            "display_phone": "(312) 326-0530",
+            "distance": 2110.5127223164395
+        },
+        {
+            "id": "goldcoast-tickets-club-chicago-2",
+            "name": "GoldCoast Tickets Club",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rijXhMPIiJbzF9-xQxvrLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/goldcoast-tickets-club-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.829899364116,
+                "longitude": -87.6343882506421
+            },
+            "transactions": [],
+            "location": {
+                "address1": "W 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "W 35th St",
+                    "Chicago, IL"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1766.5971669733078
+        },
+        {
+            "id": "gus-mendoza-taco-truck-chicago",
+            "name": "Gus Mendoza Taco Truck",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gus-mendoza-taco-truck-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": null,
+                "longitude": null
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "Chicago, IL"
+                ]
+            },
+            "phone": "+18722533439",
+            "display_phone": "(872) 253-3439",
+            "distance": 1599.9831948859758
+        },
+        {
+            "id": "gruub-hub-chicago",
+            "name": "gruub hub",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gruub-hub-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.8501276485573,
+                "longitude": -87.6502990722656
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "Chicago, IL"
+                ]
+            },
+            "phone": "+17736819498",
+            "display_phone": "(773) 681-9498",
+            "distance": 1627.8976405591459
+        },
+        {
+            "id": "chesas-gluten-tootin-free-food-truck-chicago",
+            "name": "CheSa's Gluten Tootin Free Food Truck",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chesas-gluten-tootin-free-food-truck-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8403395,
+                "longitude": -87.6137011
+            },
+            "transactions": [],
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13125765955",
+            "display_phone": "(312) 576-5955",
+            "distance": 1595.001033427314
+        },
+        {
+            "id": "great-buffet-chicago",
+            "name": "Great Buffet",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/great-buffet-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 41.8516620615654,
+                "longitude": -87.6509857177734
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2531 W Cermak Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2531 W Cermak Rd",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+17735233888",
+            "display_phone": "(773) 523-3888",
+            "distance": 1740.2765940943318
+        },
+        {
+            "id": "new-lung-fung-chicago",
+            "name": "New Lung Fung",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/new-lung-fung-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 41.8526179,
+                "longitude": -87.6321802
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2200 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2200 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122255050",
+            "display_phone": "(312) 225-5050",
+            "distance": 780.449546780338
+        },
+        {
+            "id": "south-side-hitmen-grille-chicago",
+            "name": "South Side Hitmen Grille",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/south-side-hitmen-grille-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "streetvendors",
+                    "title": "Street Vendors"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 41.8307456,
+                "longitude": -87.634945
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "333 West 35th St",
+                "address2": "",
+                "address3": "US Cellular Field",
+                "city": "Chicago",
+                "zip_code": "60609",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "333 West 35th St",
+                    "US Cellular Field",
+                    "Chicago, IL 60609"
+                ]
+            },
+            "phone": "+13126741000",
+            "display_phone": "(312) 674-1000",
+            "distance": 1748.52961663222
+        },
+        {
+            "id": "l-restaurant-chicago",
+            "name": "L Restaurant",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/l-restaurant-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 41.8454361,
+                "longitude": -87.6273727
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "11 West 26 St",
+                "address2": "",
+                "address3": "South Loop Hotel",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "11 West 26 St",
+                    "South Loop Hotel",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122254545",
+            "display_phone": "(312) 225-4545",
+            "distance": 1595.001033427314
+        },
+        {
+            "id": "mikeys-kitchen-chicago",
+            "name": "Mikey's Kitchen",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_HPGb8lrBuEbKPAyvxzQcQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mikeys-kitchen-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 41.8499840163056,
+                "longitude": -87.6498712539673
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Traveling Food Truck",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "Traveling Food Truck",
+                    "Chicago, IL"
+                ]
+            },
+            "phone": "+18008675309",
+            "display_phone": "(800) 867-5309",
+            "distance": 1589.2817089536318
+        }
+    ],
+    "total": 277,
+    "region": {
+        "center": {
+            "longitude": -87.6315879822,
+            "latitude": 41.8456491916
+        }
+    }
+}

@@ -1,0 +1,68 @@
+.button-group
+  display flex
+  flex-wrap wrap
+  justify-content center
+  button
+    padding .2rem .5rem
+    font-size .7rem
+    cursor pointer
+    color white
+    text-align center
+    background-color $brown
+    border-radius 3px
+    margin 2px 2px
+    &:hover
+      background-color $brown
+    &:focus
+      outline none !important
+    &:active
+      outline none !important
+      background-color rgba(127,125,156,.14)
+    value
+      font-size 10px
+  .is-checked
+    font-weight 700
+
+.quartiles
+  margin-top 10px
+  p
+    padding 0px 5px
+
+.d3-tip-heatmap
+  line-height 1.4
+  padding 12px
+  background white
+  color black
+  border-radius 2px
+  pointer-events none
+  font-size 12px
+  font-family $atlas
+  .bold
+    font-weight 700
+
+.d3-tip-heatmap:after
+  box-sizing border-box
+  display inline
+  font-size 12px
+  width 100%
+  line-height 1
+  color white
+  position absolute
+  pointer-events none
+
+.part3-test
+  p
+    text-align center
+    font-family $atlas
+    font-weight 700
+    font-size 12px
+    margin 0px 10px 0px 0px
+  circle,text
+    cursor pointer
+
+.h-text
+  text-anchor middle
+  fill white
+  font-family $atlas
+  alignment-baseline middle
+  font-size 10px

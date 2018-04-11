@@ -1,0 +1,136 @@
+.menu
+  //background-color #bd0026
+  color $darkred
+  width 18%
+  height auto
+  padding 0px 10px 10px 10px
+  border-radius 5px
+  float left
+  display inline-block
+  @media screen and (max-width: 1200px) and (min-width: 800px)
+    width 30%
+  @media screen and (max-width: 799px) and (min-width: 600px)
+    width 45%
+  @media screen and (max-width: 599px)
+    width 80%
+  .menu-title
+    font-weight 700
+    text-align center
+    margin 5px 0px 0px 0px
+    text-transform capitalize
+  .menu-subtitle
+    font-weight 700
+    font-size 10px
+    font-family $atlas
+    text-align center
+    margin 0px 0px 7px 0px
+    padding 0px 0px 2px 0px
+    border-bottom 1px dotted $darkred
+  .menu-sub
+    font-weight 700
+    font-size 10px
+    font-family $atlas
+    text-transform uppercase
+    text-decoration underline
+    text-decoration-style dotted
+    padding 5px 0px 2px 0px
+  .item-title
+    text-align right
+    padding-right 5px
+  .menu-item
+    width 5%
+    padding-right 0px
+    text-align right
+    padding-right 5px
+    //font-weight 700
+    color #800026
+  .menu-item, .menu-count
+    margin 0px
+    font-family $atlas
+    font-size 10px
+  .menu-count
+    text-align left
+    width 15%
+
+.rand-menu,.rand-menu2
+  background-color $darkred
+  color $mustard
+  height auto
+  float left
+  width 200px
+  margin 5px
+  padding 10px 20px 20px 20px
+  border-radius 5px
+  display inline-block
+  box-shadow grey 3px 3px 10px
+  p
+    font-size 11px
+    margin 0
+    font-weight 700
+    font-family $atlas
+  @media screen and (max-width: 399px)
+    width 90%
+  .rand-menu-title
+    text-align center
+    border-bottom 1px dotted $lightyellow
+    font-family $publico
+    font-size 16px
+    margin-bottom 10px
+
+.progress
+    width 100%
+    float left
+    margin 1px
+    overflow visible
+    p
+      font-size 12px
+      margin 2px 0 0 2px
+      padding-left 5px
+      margin-left 5px
+      text-align left
+      line-height 1
+      color $darkred
+      font-weight 700
+
+.bar-text
+  font-size 10px
+  font-weight 700
+  fill $brown
+  font-family $atlas
+
+.bar-rect, .bar-rect2
+  fill $darkred
+
+.axis, .axis2
+  path, line
+    stroke none
+  text
+    font-weight 700
+    font-size 11px !important
+
+.part1a, .part1b
+  .graphic
+    //background-color #bd0026
+
+#myRange
+  margin 0px 15px
+
+.menu_percents
+  p
+    font-size 12px !important
+    margin 5px 0px
+    width 100%
+    text-align center
+  font-family $atlas
+  font-weight 700
+
+#value
+  color $darkred
+  font-size 14px
+
+.grid, .grid2
+  line, path
+    stroke-dasharray 3 3 !important
+    stroke-opacity 0.2
+  text
+    fill grey

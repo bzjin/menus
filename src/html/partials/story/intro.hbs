@@ -1,0 +1,111 @@
+<div class='intro'>
+	<h1 class='intro__hed tk-canela'>Lost in Migration: <br> The American Chinese Menu</h1>
+	<p class='intro__dek tk-atlas'>{{copy.subhead}} <br> <span class="lucky"> Lucky numbers 4, 2, 20, 18, 9, 6</span></p>
+	<p class='intro__byline tk-atlas'>By
+		<a href='{{meta.author.url}}' target='_blank'>
+			<strong>{{meta.author.name}}</strong>
+		</a>
+	</p>
+</div>
+
+<!-- <div id="mapid"></div> -->
+
+<!-- Introduction text -->
+<div class="prose-text">
+{{#each copy.intro}}
+	<p>{{{text}}}</p>
+{{/each}}
+</div>
+
+<!-- PART 1: Menus-->
+<div class="prose-text"> {{#each copy.part1}} <p>{{{text}}}</p> {{/each}} </div>
+
+<div class="part1-chinese">
+	<div class="graphic"></div>
+</div>
+
+<div class="prose-text"> {{#each copy.part1a}} <p>{{{text}}}</p> {{/each}} </div>
+
+<!-- Random menus -->
+<div class="part1-probability">
+	<div class="graphic"></div>
+</div>
+<div class="button-group">
+	<button class="button" id="shuffle"> Generate 3 other random Chinese menus </button>
+</div>
+
+<div class="prose-text"> {{#each copy.part1b}} <p>{{{text}}}</p> {{/each}} </div>
+
+<!-- Large graphic -->
+<div class="button-group">
+	<div class="button-group menu_percents">
+		<p>Highlight the items that appear in more than <span id="value">30%</span> of restaurants in each cuisine</p>
+		<p><input type="range" class="slider" id="myRange" value=30></p>
+	</div>
+</div>
+<div class="part1a">
+	<div class="graphic">
+	</div>
+</div>
+<div class="part1b">
+	<div class="graphic"></div>
+</div>
+
+<div class="prose-text"> {{#each copy.part1c}} <p>{{{text}}}</p> {{/each}} </div>
+<!-- Random menus -->
+<div class="part1-probability2">
+	<div class="graphic"></div>
+</div>
+<div class="button-group">
+	<button class="button" id="shuffle2"> Generate 3 other random menus </button>
+</div>
+
+
+
+
+<!-- PART 2: Most and least shared food -->
+<div class="prose-text"> {{#each copy.part3}} <p>{{{text}}}</p> {{/each}} </div>
+<div class="widget"><div class="graphic"></div></div>
+
+<div class="prose-text"> {{#each copy.part3a}} <p>{{{text}}}</p> {{/each}} </div>
+<div class="widget2"><div class="graphic"></div></div>
+
+<div class="prose-text"> {{#each copy.part3b}} <p>{{{text}}}</p> {{/each}} </div>
+
+<div class="part3-test">
+	<div class="button-group quartiles">
+		<p>The</p>
+	  <button class="button quad is-checked top25">1st</button>
+		<button class="button quad top50">2nd</button>
+		<button class="button quad top75">3rd</button>
+		<button class="button quad top100">4th</button>
+		<p>quartile of most shared food</p>
+	</div>
+
+	<p class="key"> Occurring in percent of restaurants:<br>
+			<span class="key1 square"> &#x25FC;</span> 10%
+			<span class="key2 square"> &#x25FC;</span> 20%
+			<span class="key3 square"> &#x25FC;</span> 30%
+			<span class="key4 square"> &#x25FC;</span> 40%
+			<span class="key5 square"> &#x25FC;</span> More than 50%
+	</p>
+
+	<div class="graphic"></div>
+	<div class="graphic-all"></div>
+</div>
+
+<div class="prose-text"> {{#each copy.part3c}} <p>{{{text}}}</p> {{/each}} </div>
+
+<div class="part3-asian">
+	<div class="graphic"></div>
+</div>
+
+<div class="prose-text"> {{#each copy.part3d}} <p>{{{text}}}</p> {{/each}} </div>
+
+<!-- DATA AND METHODOLOGY -->
+<div class="prose-text data-text">
+	<hr>
+	{{#each copy.data}}
+		<p>{{{text}}}</p>
+	{{/each}}
+</div>

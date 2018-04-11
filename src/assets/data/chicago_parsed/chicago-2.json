@@ -1,0 +1,2104 @@
+{
+    "businesses": [
+        {
+            "id": "joy-yees-noodle-shop-chicago-2",
+            "name": "Joy Yee's Noodle Shop",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mzbm87ve-4K-ERav9ibjBw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/joy-yees-noodle-shop-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 578,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8643301355842,
+                "longitude": -87.6467004576721
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1335 S Halsted St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1335 S Halsted St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13129972128",
+            "display_phone": "(312) 997-2128",
+            "distance": 2425.174447345088
+        },
+        {
+            "id": "northern-taste-chicago",
+            "name": "Northern Taste",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8RGOvHQTTc5iRJUXkPjZnw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/northern-taste-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.83213,
+                "longitude": -87.64578
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3409 S Halsted St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3409 S Halsted St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+17739402172",
+            "display_phone": "(773) 940-2172",
+            "distance": 1908.5049720621157
+        },
+        {
+            "id": "pancho-pistolas-chicago",
+            "name": "Pancho Pistolas",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BKArplVk0arXZ6BFA3bNwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pancho-pistolas-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 402,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8382999,
+                "longitude": -87.64402
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "700 W 31st St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "700 W 31st St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122258808",
+            "display_phone": "(312) 225-8808",
+            "distance": 1316.677748546106
+        },
+        {
+            "id": "mac-kellys-chicago-5",
+            "name": "Mac Kelly's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-IIOzOeDXwZldb3K48aZyQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mac-kellys-chicago-5?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.86436,
+                "longitude": -87.62368
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1347 S Michigan Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60605",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1347 S Michigan Ave",
+                    "Chicago, IL 60605"
+                ]
+            },
+            "phone": "+13122651343",
+            "display_phone": "(312) 265-1343",
+            "distance": 2195.515454307508
+        },
+        {
+            "id": "ken-kee-restaurant-chicago",
+            "name": "Ken Kee Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DUtZr6-0BVOHCMoCpucoXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ken-kee-restaurant-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 388,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8543853759766,
+                "longitude": -87.6333236694336
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2129 S China Pl",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2129 S China Pl",
+                    "Ste A",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123262088",
+            "display_phone": "(312) 326-2088",
+            "distance": 982.655676996848
+        },
+        {
+            "id": "honky-tonk-bbq-chicago",
+            "name": "Honky Tonk BBQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nyz3iMCFVMCov_bos2Qykw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/honky-tonk-bbq-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 787,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.85779,
+                "longitude": -87.65678
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1800 S Racine Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1800 S Racine Ave",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13122267427",
+            "display_phone": "(312) 226-7427",
+            "distance": 2482.613348176868
+        },
+        {
+            "id": "bridgeport-yogurt-and-cafe-chicago",
+            "name": "Bridgeport Yogurt & Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cOdvKTg0rd9c7q3WusCTpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bridgeport-yogurt-and-cafe-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.83784,
+                "longitude": -87.6415249
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3108 S Wallace St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3108 S Wallace St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+17736102395",
+            "display_phone": "(773) 610-2395",
+            "distance": 1201.9505410339798
+        },
+        {
+            "id": "seven-treasures-cantonese-cuisine-chicago",
+            "name": "Seven Treasures Cantonese Cuisine",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/02zOtZ-Y8iKvr0jCdO7lLA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/seven-treasures-cantonese-cuisine-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 251,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.850483,
+                "longitude": -87.632082
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2312 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2312 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122252668",
+            "display_phone": "(312) 225-2668",
+            "distance": 539.04975909616
+        },
+        {
+            "id": "lawrences-fish-and-shrimp-chicago",
+            "name": "Lawrence's Fish & Shrimp",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YW6m9abmDRFZdxxK2C5O5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lawrences-fish-and-shrimp-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 387,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8539559,
+                "longitude": -87.6388946
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2120 S Canal St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2120 S Canal St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122252113",
+            "display_phone": "(312) 225-2113",
+            "distance": 1104.2718554076318
+        },
+        {
+            "id": "seafood-harbor-chicago",
+            "name": "Seafood Harbor",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5TgwJCgbuteowch2_lUmsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/seafood-harbor-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 55,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8534698486328,
+                "longitude": -87.6329345703125
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2131 S Archer Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2131 S Archer Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122251888",
+            "display_phone": "(312) 225-1888",
+            "distance": 881.046098275368
+        },
+        {
+            "id": "talons-chicago",
+            "name": "Talon's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fqS78YGuCy1WBUXWvU6LHQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/talons-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.8354632,
+                "longitude": -87.6287419
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3241 S Federal St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3241 S Federal St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1156.908469586012
+        },
+        {
+            "id": "no-1-bbq-chicago",
+            "name": "NO 1 BBQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2TX4o27GXdW9TyDQpiwbEQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/no-1-bbq-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 41.8493114594906,
+                "longitude": -87.6320396172142
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2358 S Wentworth Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2358 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13124963061",
+            "display_phone": "(312) 496-3061",
+            "distance": 408.93986364774804
+        },
+        {
+            "id": "fabulous-freddies-italian-eatery-chicago",
+            "name": "Fabulous Freddies Italian Eatery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nhy4NM5VgGC1bEumIgAHvw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fabulous-freddies-italian-eatery-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 339,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8377391351096,
+                "longitude": -87.6439815149679
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "701 W 31st St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "701 W 31st St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128080147",
+            "display_phone": "(312) 808-0147",
+            "distance": 1351.91357208424
+        },
+        {
+            "id": "bbq-king-house-chicago",
+            "name": "Bbq King House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1Ha0Dzp8xDAz6-X4-Z6LtQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bbq-king-house-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.85064,
+                "longitude": -87.63218
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2306 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2306 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122252652",
+            "display_phone": "(312) 225-2652",
+            "distance": 564.987926076092
+        },
+        {
+            "id": "macau-tasty-house-chicago",
+            "name": "Macau Tasty House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BcMW5FYRwONjRaACnlMnjQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/macau-tasty-house-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.84181,
+                "longitude": -87.63218
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2826 S Wentworth Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2826 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128775555",
+            "display_phone": "(312) 877-5555",
+            "distance": 425.38843999679403
+        },
+        {
+            "id": "krolls-south-loop-chicago",
+            "name": "Krolls South Loop",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QwIlQPwCP5YQLccgpyMxwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/krolls-south-loop-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 447,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.858036,
+                "longitude": -87.62442
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1736 S Michigan Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1736 S Michigan Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122351400",
+            "display_phone": "(312) 235-1400",
+            "distance": 1500.8463715806479
+        },
+        {
+            "id": "ginos-steaks-truck-bridgeport-chicago-2",
+            "name": "Gino's Steaks Truck Bridgeport",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ix7DSGrQkzoiBAhrxWXyVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ginos-steaks-truck-bridgeport-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.838087,
+                "longitude": -87.635491
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "335 W 31st St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "335 W 31st St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13127636192",
+            "display_phone": "(312) 763-6192",
+            "distance": 900.89399805046
+        },
+        {
+            "id": "kathy-des-deli-chicago",
+            "name": "Kathy De's Deli",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B2rAGHJgcb5YIQLS509G9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kathy-des-deli-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 69,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.82774,
+                "longitude": -87.64026
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3642 S Parnell Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60609",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3642 S Parnell Ave",
+                    "Chicago, IL 60609"
+                ]
+            },
+            "phone": "+17733732688",
+            "display_phone": "(773) 373-2688",
+            "distance": 2115.7195716182678
+        },
+        {
+            "id": "taqueria-san-jose-chicago",
+            "name": "Taqueria San Jose",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zffL8qGqXYDRNpFanqywjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taqueria-san-jose-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 186,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.834907,
+                "longitude": -87.645851
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3253 S Halsted St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3253 S Halsted St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13122257386",
+            "display_phone": "(312) 225-7386",
+            "distance": 1679.446482841314
+        },
+        {
+            "id": "kaathis-chicago-2",
+            "name": "Kaathis",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SBxYfHDv26izAISxhi_NRg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kaathis-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 41.86171,
+                "longitude": -87.64904
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1462 S Peoria St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1462 S Peoria St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13125930266",
+            "display_phone": "(312) 593-0266",
+            "distance": 2298.588438721524
+        },
+        {
+            "id": "bodhi-thai-chicago-2",
+            "name": "Bodhi Thai",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sz0CeRsNFZxKBFB-HFnhqA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bodhi-thai-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 123,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.85751,
+                "longitude": -87.64214
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1800 S Jefferson",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1800 S Jefferson",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13124928424",
+            "display_phone": "(312) 492-8424",
+            "distance": 1577.3875569188199
+        },
+        {
+            "id": "chapati-indian-grill-chicago",
+            "name": "Chapati Indian Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VrPF5jv2Ur8ejTXZH1AGGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chapati-indian-grill-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.86457,
+                "longitude": -87.64612
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "727 W Maxwell St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60607",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "727 W Maxwell St",
+                    "Chicago, IL 60607"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2423.7699986969137
+        },
+        {
+            "id": "georges-restaurant-chicago-2",
+            "name": "George's Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a1Csk0Bc04r8oaTUMOohgw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/georges-restaurant-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 59,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.83123,
+                "longitude": -87.64576
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3445 S Halsted St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3445 S Halsted St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+17732474770",
+            "display_phone": "(773) 247-4770",
+            "distance": 1988.11609302425
+        },
+        {
+            "id": "evergreen-restaurant-chicago",
+            "name": "Evergreen Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s81VPqj9VkADZm564l-zNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/evergreen-restaurant-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 138,
+            "categories": [
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.848699,
+                "longitude": -87.631819
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2411 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2411 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122258898",
+            "display_phone": "(312) 225-8898",
+            "distance": 339.662300502488
+        },
+        {
+            "id": "johnny-os-chicago",
+            "name": "Johnny O's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9iRNLyfh2NHR9coubGWULA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/johnny-os-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 69,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.83082,
+                "longitude": -87.65061
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3465 S Morgan St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60609",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3465 S Morgan St",
+                    "Chicago, IL 60609"
+                ]
+            },
+            "phone": "+17739271011",
+            "display_phone": "(773) 927-1011",
+            "distance": 2300.633995961214
+        },
+        {
+            "id": "new-furama-restaurant-chicago",
+            "name": "New Furama Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hZ6Py6SwbuCSCFKlSUO21A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/new-furama-restaurant-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 120,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.841576,
+                "longitude": -87.632042
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2828 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2828 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122256888",
+            "display_phone": "(312) 225-6888",
+            "distance": 454.476552869996
+        },
+        {
+            "id": "the-noodle-vietnamese-cuisine-chicago",
+            "name": "The Noodle Vietnamese Cuisine",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wFiEu6LkfsSXoFgDXmXrhA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-noodle-vietnamese-cuisine-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 281,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8497742,
+                "longitude": -87.6321189
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2336 S Wentworth Ave",
+                "address2": "Unit 101",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2336 S Wentworth Ave",
+                    "Unit 101",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13126741168",
+            "display_phone": "(312) 674-1168",
+            "distance": 466.16974613620596
+        },
+        {
+            "id": "south-coast-sushi-chicago",
+            "name": "South Coast Sushi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JfBflp9xBPO0QEHXMjs_lQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/south-coast-sushi-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 480,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.8589015950675,
+                "longitude": -87.6242748306885
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1700 S Michigan Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1700 S Michigan Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13126621700",
+            "display_phone": "(312) 662-1700",
+            "distance": 1593.230222712424
+        },
+        {
+            "id": "chicago-oyster-house-chicago",
+            "name": "Chicago Oyster House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ILN0NTqfa90ILf5qSLmI4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicago-oyster-house-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 186,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8559722,
+                "longitude": -87.6221742
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1933 S Indiana Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1933 S Indiana Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122258833",
+            "display_phone": "(312) 225-8833",
+            "distance": 1387.643392352348
+        },
+        {
+            "id": "reggies-music-joint-chicago",
+            "name": "Reggies Music Joint",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cxNLWiUFuwNRWbDeOt-HEA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/reggies-music-joint-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 319,
+            "categories": [
+                {
+                    "alias": "musicvideo",
+                    "title": "Music & DVDs"
+                },
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.853969,
+                "longitude": -87.626754
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2105 S State St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2105 S State St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13129490120",
+            "display_phone": "(312) 949-0120",
+            "distance": 1009.240375561294
+        },
+        {
+            "id": "gourmet-chicken-chicago-4",
+            "name": "Gourmet Chicken",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SwKNS32hCichogO8nwu_GQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gourmet-chicken-chicago-4?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 54,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.85263,
+                "longitude": -87.62533
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "43 E Cermak Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "43 E Cermak Rd",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123263450",
+            "display_phone": "(312) 326-3450",
+            "distance": 932.3732245216139
+        },
+        {
+            "id": "macau-doulao-cuisine-chicago",
+            "name": "Macau Doulao Cuisine",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vh6vgDS2aavrMvhmNHR1ug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/macau-doulao-cuisine-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8418083,
+                "longitude": -87.6321793
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2826 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2826 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128775555",
+            "display_phone": "(312) 877-5555",
+            "distance": 424.99552108419994
+        },
+        {
+            "id": "cafe-bionda-chicago-6",
+            "name": "Cafe Bionda",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ECjdfXfwpej5a1Tgy-s6NA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-bionda-chicago-6?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 349,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8563207,
+                "longitude": -87.6272949
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1924 S State St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1924 S State St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123269800",
+            "display_phone": "(312) 326-9800",
+            "distance": 1177.510684239042
+        },
+        {
+            "id": "southtown-sub-chicago",
+            "name": "Southtown Sub",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kAswITdJM5ZoPJYwvOlV4g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/southtown-sub-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.8311963,
+                "longitude": -87.6202198
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "240 E 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "240 E 35th St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123261890",
+            "display_phone": "(312) 326-1890",
+            "distance": 1866.853895866628
+        },
+        {
+            "id": "saints-alp-teahouse-and-gourmet-chicago",
+            "name": "Saint's Alp Teahouse & Gourmet",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Vq5pA6t-VEVvdq5W-uekcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saints-alp-teahouse-and-gourmet-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.85377,
+                "longitude": -87.63462
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2157 S China Pl",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2157 S China Pl",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128428882",
+            "display_phone": "(312) 842-8882",
+            "distance": 937.0267323590999
+        },
+        {
+            "id": "moon-palace-restaurant-chicago",
+            "name": "Moon Palace Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eLnGghFlUjoPXtMUd5gbXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moon-palace-restaurant-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 204,
+            "categories": [
+                {
+                    "alias": "shanghainese",
+                    "title": "Shanghainese"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.853212,
+                "longitude": -87.63252
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "216 W Cermak Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "216 W Cermak Rd",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122254081",
+            "display_phone": "(312) 225-4081",
+            "distance": 844.48092996351
+        },
+        {
+            "id": "hogsalt-chicago",
+            "name": "Hogsalt",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hogsalt-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.85,
+                "longitude": -87.65
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "Chicago, IL"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1599.9831948859758
+        },
+        {
+            "id": "bridgeport-restaurant-chicago",
+            "name": "Bridgeport Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n0BwYrJPeE2SGlOn-FWd_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bridgeport-restaurant-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 103,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.83058,
+                "longitude": -87.64651
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3500 S Halsted St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60609",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "3500 S Halsted St",
+                    "Chicago, IL 60609"
+                ]
+            },
+            "phone": "+17732472826",
+            "display_phone": "(773) 247-2826",
+            "distance": 2077.5220003376717
+        },
+        {
+            "id": "gios-authentic-mexican-food-chicago",
+            "name": "Gio's Authentic Mexican Food",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KbCWuY7FQtohUYbHcuitZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gios-authentic-mexican-food-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.837913,
+                "longitude": -87.638053
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "451 W 31st St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "451 W 31st St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13123441870",
+            "display_phone": "(312) 344-1870",
+            "distance": 1013.3005709177919
+        },
+        {
+            "id": "jamaica-jerk-villa-bar-and-grill-chicago-2",
+            "name": "Jamaica Jerk Villa Bar & Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mclu5AIGV4_WgBgU5RXsAw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jamaica-jerk-villa-bar-and-grill-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 50,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 41.8524,
+                "longitude": -87.62429
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2216 S Michigan Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2216 S Michigan Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122250932",
+            "display_phone": "(312) 225-0932",
+            "distance": 977.859566829434
+        },
+        {
+            "id": "la-vaca-margarita-bar-chicago",
+            "name": "La Vaca Margarita Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tu9f8ZS66XAus0lGRF3tLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-vaca-margarita-bar-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 385,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8579816,
+                "longitude": -87.6557881
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1160 W 18th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1160 W 18th St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13128291147",
+            "display_phone": "(312) 829-1147",
+            "distance": 2428.595850111264
+        },
+        {
+            "id": "my-place-chicago-3",
+            "name": "My Place",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/H51jfBFVseaEd6P9qMfxrw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/my-place-chicago-3?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 129,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.854736328125,
+                "longitude": -87.6322708129883
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2022 S Archer Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2022 S Archer Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122258282",
+            "display_phone": "(312) 225-8282",
+            "distance": 1003.819888466608
+        },
+        {
+            "id": "phils-pizza-chicago",
+            "name": "Phil's Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jgHn7pBSKcM41NyfQ5flCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/phils-pizza-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 274,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.8309,
+                "longitude": -87.65363
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1102 W 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60609",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1102 W 35th St",
+                    "Chicago, IL 60609"
+                ]
+            },
+            "phone": "+17735230947",
+            "display_phone": "(773) 523-0947",
+            "distance": 2465.681071816102
+        },
+        {
+            "id": "giordanos-chicago-22",
+            "name": "Giordano's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uQrubRFKZm9ieC3v18Sr2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/giordanos-chicago-22?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 331,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8645637950545,
+                "longitude": -87.6242894379799
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1340 S Michigan",
+                "address2": "South Loop",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60605",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1340 S Michigan",
+                    "South Loop",
+                    "Chicago, IL 60605"
+                ]
+            },
+            "phone": "+13128421100",
+            "display_phone": "(312) 842-1100",
+            "distance": 2188.3481454809057
+        },
+        {
+            "id": "decolores-galeria-y-sabores-chicago",
+            "name": "Decolores Galeria Y Sabores",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yLuax2NytpgyfrpRyelxiw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/decolores-galeria-y-sabores-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 272,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.859099,
+                "longitude": -87.6467928
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1626 S Halsted St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60608",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1626 S Halsted St",
+                    "Chicago, IL 60608"
+                ]
+            },
+            "phone": "+13122269886",
+            "display_phone": "(312) 226-9886",
+            "distance": 1955.1499910506698
+        },
+        {
+            "id": "kentones-drive-in-chicago-2",
+            "name": "Kentone's Drive-In",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DmYvm1ZoeRnSnKg_G91Oqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kentones-drive-in-chicago-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.8574333190918,
+                "longitude": -87.640869140625
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "551 W 18th St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "551 W 18th St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122264004",
+            "display_phone": "(312) 226-4004",
+            "distance": 1523.4679826860638
+        },
+        {
+            "id": "punkys-pizza-and-pasta-chicago",
+            "name": "Punky's Pizza & Pasta",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LqYQMxGyZKtOEYtMN0i8Cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/punkys-pizza-and-pasta-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 114,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 41.84526,
+                "longitude": -87.64192
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2600 S Wallace St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2600 S Wallace St",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128422100",
+            "display_phone": "(312) 842-2100",
+            "distance": 855.3269186953879
+        },
+        {
+            "id": "ma-gong-la-po-chicago",
+            "name": "Ma Gong La Po",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9sATaTwMmVPd9pB7Wlg53g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ma-gong-la-po-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8524929297065,
+                "longitude": -87.6317862947896
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2215 S Wentworth Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2215 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13122650264",
+            "display_phone": "(312) 265-0264",
+            "distance": 761.1653741843439
+        },
+        {
+            "id": "sweet-station-chicago",
+            "name": "Sweet Station",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q7cCJSCI-XczOpmF9j-x3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-station-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 253,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 41.8545124110803,
+                "longitude": -87.6326755325063
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2101 S China Pl",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2101 S China Pl",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128422228",
+            "display_phone": "(312) 842-2228",
+            "distance": 989.65208920418
+        },
+        {
+            "id": "lao-hunan-chicago",
+            "name": "Lao Hunan",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ctMTU-NpDQKIR_hKyIHCzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lao-hunan-chicago?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 133,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.85194,
+                "longitude": -87.63229
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2230 S Wentworth Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2230 S Wentworth Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13128427888",
+            "display_phone": "(312) 842-7888",
+            "distance": 701.2935965769419
+        }
+    ],
+    "total": 277,
+    "region": {
+        "center": {
+            "longitude": -87.6315879822,
+            "latitude": 41.8456491916
+        }
+    }
+}

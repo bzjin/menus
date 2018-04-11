@@ -1,0 +1,63 @@
+cuisine1,cuisine2,count
+asian fusion,japanese,1
+bakeries,chinese,1
+bakeries,delis,1
+bars,tacos,1
+bars,traditional american,1
+bbq,dive bars,1
+bubble tea,taiwanese,1
+buffets,chinese,1
+cafes,vegetarian,1
+cajun,seafood,1
+cantonese,szechuan,1
+caribbean, bars,1
+chinese,desserts,1
+chinese,hotpot,1
+chinese,noodles,1
+chinese,sushi,1
+dimsum,bakeries,1
+dimsum,cafes,1
+dimsum,seafood,1
+foodstands,hotdog,1
+food trucks,gluten free,1
+grocery,mexican,1
+hotdog,hotdogs,1
+italian,seafood,1
+juice bars,chinese,1
+juice bars,sandwiches,1
+lounges,latin,1
+lounges,traditional american,1
+mediterranean,turkish,1
+mexican,food trucks,1
+new american,bagels,1
+new american,food trucks,1
+noodles,panasian,1
+seafood,cantonese,1
+seafood,seafoodmarkets,1
+seafood,sushi,1
+senegalese,seafood,1
+shanghainese,cantonese,1
+sushi,japanese,1
+tapa small plates,chinese,1
+thai,foodstands,1
+traditional american,burgers,1
+traditional american,sandwiches,1
+vegan,raw food,1
+vietnamese,coffee,1
+vietnamese,noodles,1
+vietnamese,sandwiches,1
+chinese,seafood,2
+coffee,sandwiches,2
+delis,italian,2
+dimsum,cantonese,2
+hotdogs,chicken wings,2
+korean,bbq,2
+mexican, bars,2
+new american, bars,2
+new american,breakfast brunch,2
+sports bars,traditional american,2
+asian fusion,chinese,3
+chinese,bbq,3
+hotdogs,burgers,3
+pizza,italian,4
+sandwiches,hotdogs,4

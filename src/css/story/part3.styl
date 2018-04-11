@@ -1,0 +1,49 @@
+.part3
+  margin 0px 20px
+
+.cluster
+  margin 5px
+  display inline-block
+  overflow visible
+
+.clusters
+  overflow visible
+
+.cluster-title
+  font-weight 700
+  font-size 12px
+  text-align center
+  font-family $atlas
+
+.d3-tip
+  line-height 1
+  font-weight bold
+  padding 12px
+  background white
+  color black
+  border-radius 2px
+  pointer-events none
+  font-size 12px
+  font-family $atlas
+
+.d3-tip:after
+  box-sizing border-box
+  display inline
+  font-size 12px
+  width 100%
+  line-height 1
+  color white
+  position absolute
+  pointer-events none
+
+.part3-test
+  .graphic, .graphic-all
+    width 100%
+    overflow hidden
+  svg
+    display block
+    margin 0
+  @media screen and (max-width: 700px)
+    .graphic
+      width 100%
+      overflow-x scroll

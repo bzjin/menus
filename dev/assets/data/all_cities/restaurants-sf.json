@@ -1,0 +1,872 @@
+{
+    "businesses": [
+        {
+            "id": "good-mong-kok-bakery-san-francisco",
+            "name": "Good Mong Kok Bakery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wndwx-kui0DexPf3rcwz_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/good-mong-kok-bakery-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1915,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7954584839809,
+                "longitude": -122.408358365012
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1039 Stockton St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1039 Stockton St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14153972688",
+            "display_phone": "(415) 397-2688",
+            "distance": 184.66408555138798
+        },
+        {
+            "id": "delicious-dim-sum-san-francisco",
+            "name": "Delicious Dim Sum",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XikMaSI2cOA7JN2aKkFu3A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/delicious-dim-sum-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 770,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.796051,
+                "longitude": -122.4076004
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "752 Jackson St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "752 Jackson St",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14157810721",
+            "display_phone": "(415) 781-0721",
+            "distance": 222.00428207352198
+        },
+        {
+            "id": "chong-qing-xiao-mian-san-francisco",
+            "name": "Chong Qing Xiao Mian",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Mz6D2a_ZJCTSX5mwZ9feJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chong-qing-xiao-mian-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 386,
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.796386,
+                "longitude": -122.4053411
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "915 Kearny St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "915 Kearny St",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14159830888",
+            "display_phone": "(415) 983-0888",
+            "distance": 304.33812548582597
+        },
+        {
+            "id": "sam-wo-restaurant-san-francisco-3",
+            "name": "Sam Wo Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Um3xM56gp4n_K7KobP3Cyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sam-wo-restaurant-san-francisco-3?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 653,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7942543029785,
+                "longitude": -122.405113220215
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "713 Clay St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "713 Clay St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14159898898",
+            "display_phone": "(415) 989-8898",
+            "distance": 182.55852342606198
+        },
+        {
+            "id": "golden-star-vietnamese-restaurant-san-francisco",
+            "name": "Golden Star Vietnamese Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/12vRlFsOsUnu0NgGC7lOCw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-star-vietnamese-restaurant-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1100,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7945505827665,
+                "longitude": -122.405742555857
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "11 Walter U Lum Pl",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11 Walter U Lum Pl",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14153981215",
+            "display_phone": "(415) 398-1215",
+            "distance": 125.691597319012
+        },
+        {
+            "id": "hogwash-san-francisco",
+            "name": "Hogwash",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yH4icakrVBLn-o2guHwoWA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hogwash-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 802,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7891754,
+                "longitude": -122.4099292
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "582 Sutter St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "582 Sutter St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14153615500",
+            "display_phone": "(415) 361-5500",
+            "distance": 596.918087523104
+        },
+        {
+            "id": "the-house-san-francisco",
+            "name": "The House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/K48sSeIuHURatMBrSTfOTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-house-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 4199,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7986203,
+                "longitude": -122.4070251
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1230 Grant Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1230 Grant Ave",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14159868612",
+            "display_phone": "(415) 986-8612",
+            "distance": 487.833067048186
+        },
+        {
+            "id": "slurp-ramen-san-francisco",
+            "name": "Slurp Ramen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lVSxE5BBIThDSXPVF8FFxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/slurp-ramen-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 322,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7940237320387,
+                "longitude": -122.405092790723
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "710 Commercial St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "710 Commercial St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14153991042",
+            "display_phone": "(415) 399-1042",
+            "distance": 183.42312476485998
+        },
+        {
+            "id": "la-fusión-san-francisco-2",
+            "name": "La Fusión",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7LZP0604HmgLFNeGre3rGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-fusi%C3%B3n-san-francisco-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1037,
+            "categories": [
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7916357455614,
+                "longitude": -122.403691572642
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "475 Pine St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94104",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "475 Pine St",
+                    "San Francisco, CA 94104"
+                ]
+            },
+            "phone": "+14157810894",
+            "display_phone": "(415) 781-0894",
+            "distance": 409.88654889044403
+        },
+        {
+            "id": "muraccis-japanese-curry-and-grill-san-francisco",
+            "name": "Muracci's Japanese Curry & Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pqGATapVx1nBqX1pVyQDKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/muraccis-japanese-curry-and-grill-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1544,
+            "categories": [
+                {
+                    "alias": "japacurry",
+                    "title": "Japanese Curry"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.791036,
+                "longitude": -122.404233
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "307 Kearny St",
+                "address2": "Ste 204",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "307 Kearny St",
+                    "Ste 204",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14157731101",
+            "display_phone": "(415) 773-1101",
+            "distance": 426.46309046118404
+        },
+        {
+            "id": "tacorea-san-francisco",
+            "name": "Tacorea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rHxbA24tQgh8eIDrHGhCOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacorea-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 961,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.789806,
+                "longitude": -122.410709
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "809 Bush St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "809 Bush St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14158851325",
+            "display_phone": "(415) 885-1325",
+            "distance": 567.889870100418
+        },
+        {
+            "id": "è-tutto-qua-san-francisco-2",
+            "name": "È Tutto Qua",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lzjPKe_-LOoLcPgN8lGZ2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%C3%A8-tutto-qua-san-francisco-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1823,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7977561950684,
+                "longitude": -122.40625
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "270 Columbus Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "270 Columbus Ave",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14159891002",
+            "display_phone": "(415) 989-1002",
+            "distance": 415.19581079624794
+        },
+        {
+            "id": "sababa-san-francisco",
+            "name": "Sababa",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jx2g0wiV2LXwhEg5K61xDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sababa-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 223,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7911832391356,
+                "longitude": -122.404289804399
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "329 Kearny St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "329 Kearny St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14158006853",
+            "display_phone": "(415) 800-6853",
+            "distance": 410.46538986428396
+        },
+        {
+            "id": "good-luck-cafe-and-deli-san-francisco",
+            "name": "Good Luck Cafe and Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7diLgtddAjlrYm_62uLvUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/good-luck-cafe-and-deli-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 367,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.793838,
+                "longitude": -122.404846
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "621 Kearny St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "621 Kearny St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14157812328",
+            "display_phone": "(415) 781-2328",
+            "distance": 204.618727698792
+        },
+        {
+            "id": "hanlin-tea-restaurant-san-francisco-2",
+            "name": "Hanlin Tea Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z6rKqAjRzRCBzJtIdb9wIQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hanlin-tea-restaurant-san-francisco-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 335,
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7954864501953,
+                "longitude": -122.405204772949
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "801 Kearny St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "801 Kearny St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14157805000",
+            "display_phone": "(415) 780-5000",
+            "distance": 236.40454438345796
+        },
+        {
+            "id": "icafe-san-francisco-san-francisco-2",
+            "name": "iCafe San Francisco",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qDUPYWFWzCxlI0Nuck0w6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/icafe-san-francisco-san-francisco-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 142,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.795052,
+                "longitude": -122.405917
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "57 Walter U Lum Pl",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "57 Walter U Lum Pl",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14153922682",
+            "display_phone": "(415) 392-2682",
+            "distance": 154.53313452037798
+        },
+        {
+            "id": "dol-ho-san-francisco",
+            "name": "Dol Ho",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tQkkkR5uE6C_Tqn3gnav8Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dol-ho-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 310,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7967339009047,
+                "longitude": -122.408686280251
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "808 Pacific Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "808 Pacific Ave",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14153922828",
+            "display_phone": "(415) 392-2828",
+            "distance": 329.323815852138
+        },
+        {
+            "id": "liholiho-yacht-club-san-francisco-2",
+            "name": "Liholiho Yacht Club",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FK2X98w6z5naJyiQjsGTNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/liholiho-yacht-club-san-francisco-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1647,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7882257887342,
+                "longitude": -122.414598204196
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "871 Sutter St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94109",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "871 Sutter St",
+                    "San Francisco, CA 94109"
+                ]
+            },
+            "phone": "+14154405446",
+            "display_phone": "(415) 440-5446",
+            "distance": 921.60556413781
+        },
+        {
+            "id": "hunan-homes-restaurant-san-francisco",
+            "name": "Hunan Home's Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mF9pWakxcd9CiASGYudeiQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hunan-homes-restaurant-san-francisco?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 1777,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7964057922363,
+                "longitude": -122.405654907227
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "622 Jackson St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "622 Jackson St",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14159822844",
+            "display_phone": "(415) 982-2844",
+            "distance": 290.02746833027794
+        },
+        {
+            "id": "katsu-house-san-francisco-2",
+            "name": "Katsu House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IfFG6LXaC0iW6PhY5mNJag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/katsu-house-san-francisco-2?adjust_creative=tfYAhmRoAxvCnHeqBmZWDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tfYAhmRoAxvCnHeqBmZWDQ",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.79447,
+                "longitude": -122.40674
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "112 Waverly Pl",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "112 Waverly Pl",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14159685355",
+            "display_phone": "(415) 968-5355",
+            "distance": 58.110908590362
+        }
+    ],
+    "total": 1100,
+    "region": {
+        "center": {
+            "longitude": -122.4071788788,
+            "latitude": 37.7940839636
+        }
+    }
+}
